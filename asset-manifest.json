@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ADAM-AMAZIANE/TP1-react/static/css/main.20580847.css",
-    "main.js": "/ADAM-AMAZIANE/TP1-react/static/js/main.06880b51.js",
-    "static/js/787.f0f7d419.chunk.js": "/ADAM-AMAZIANE/TP1-react/static/js/787.f0f7d419.chunk.js",
-    "static/media/logo.svg": "/ADAM-AMAZIANE/TP1-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ADAM-AMAZIANE/TP1-react/index.html",
-    "main.20580847.css.map": "/ADAM-AMAZIANE/TP1-react/static/css/main.20580847.css.map",
-    "main.06880b51.js.map": "/ADAM-AMAZIANE/TP1-react/static/js/main.06880b51.js.map",
-    "787.f0f7d419.chunk.js.map": "/ADAM-AMAZIANE/TP1-react/static/js/787.f0f7d419.chunk.js.map"
+    "main.css": "/TP1-react/static/css/main.20580847.css",
+    "main.js": "/TP1-react/static/js/main.d2848c50.js",
+    "static/js/787.f0f7d419.chunk.js": "/TP1-react/static/js/787.f0f7d419.chunk.js",
+    "static/media/logo.svg": "/TP1-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TP1-react/index.html",
+    "main.20580847.css.map": "/TP1-react/static/css/main.20580847.css.map",
+    "main.d2848c50.js.map": "/TP1-react/static/js/main.d2848c50.js.map",
+    "787.f0f7d419.chunk.js.map": "/TP1-react/static/js/787.f0f7d419.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20580847.css",
-    "static/js/main.06880b51.js"
+    "static/js/main.d2848c50.js"
   ]
 }
