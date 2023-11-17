@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import './style.css'; 
+
+import './style1.css'; 
 
 
 export default function Calc() {
@@ -26,7 +27,7 @@ export default function Calc() {
 
   return (
     <div className='calculator'>
-      <h1>Exemple calcul 2 :</h1>
+      <h1>Exemple calcul :</h1>
       <input onClick={(e) => tapecar(e)} type="button" value="." />
       <input onClick={(e) => tapecar(e)} type="button" value="0" />
       <input onClick={(e) => tapecar(e)} type="button" value="1" />

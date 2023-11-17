@@ -1,12 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+
 import Calc from './calculatrice/Calc';
+
 
 function App() {
   return (
     <div className="App">
-     <Calc />
-    
+      <center>
+    <Calc />
+    </center>
     </div>
   );
 }
